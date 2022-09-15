@@ -1,5 +1,5 @@
 # Laboratorio de github
 ## Integrantes
-- Miguel Angel Tena
-- Maria Pilar Davila 
-- Carlos Salguero 
+- Miguel Angel Tena (Lider)
+- Maria Pilar Davila (Participante)
+- Carlos Salguero (Supervisor)
